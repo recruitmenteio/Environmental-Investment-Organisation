@@ -21,12 +21,6 @@ Please email sam.gill@eio.org.uk if you would like to get involved.
 
 =====================================
 
-$ mkdir ~/Environmental-Investment-Organisation
 
-$ cd ~/Environmental-Investment-Organisation
-
-$ git init
-
-$ touch README
 
 
